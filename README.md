@@ -1,2 +1,2 @@
-# FirstGitRepo
-First git repository
+# TestCodeRepo
+Sample test codes
